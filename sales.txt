@@ -1,0 +1,13 @@
+Today's sales of cappuccino: Sold 1, Expenses $1.56, Revenue $3.5, Profit $1.94
+Today's sales of espresso: Sold 2, Expenses $1.9, Revenue $3.0, Profit $1.1
+Today's sales of latte: Sold 3, Expenses $5.01, Revenue $11.25, Profit $6.24
+Today's sales of black tea: Sold 4, Expenses $1.4, Revenue $7.16, Profit $5.76
+Today's sales of herbal tea: Sold 5, Expenses $1.75, Revenue $10.45, Profit $8.7
+Today's sales of macchiato: Sold 6, Expenses $8.7, Revenue $16.5, Profit $7.800000000000001
+Today's sales of americano: Sold 7, Expenses $4.8999999999999995, Revenue $18.55, Profit $13.650000000000002
+Today's sales of cold press: Sold 8, Expenses $4.0, Revenue $20.0, Profit $16.0
+Today's sales of hot chocolate: Sold 9, Expenses $5.8500000000000005, Revenue $20.25, Profit $14.399999999999999
+Today's sales of coffee: Sold 1, Expenses $0.25, Revenue $1.65, Profit $1.4
+Today's sales of chai tea: Sold 0, Expenses $0.0, Revenue $0.0, Profit $0.0
+Today's sales of mocha: Sold 2, Expenses $2.9, Revenue $7.4, Profit $4.5
+Total: Number of drinks sold 48. Total expense $38.22. Total Revenue $119.71000000000001. And the total profit for the day is $81.49000000000001
