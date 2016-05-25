@@ -78,7 +78,8 @@ public class Drink {
                     System.out.println("That number is less than 0. Please try again.");
                 }
             }
-            catch (Exception badDouble) {
+            // if it's not an integer, or runs into any other input problems, catch the error and output a message
+            catch (Exception badInt) {
                 System.out.println("You didn't enter a valid number of " + this.bev + " sold. Please enter a whole, non-decimal number greater than 0.");
             }
         }
