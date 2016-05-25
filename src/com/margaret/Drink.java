@@ -55,7 +55,9 @@ public class Drink {
         this.price = price;
     }
 
-    // this method name is leftover from the original coffee shop program, it takes in a Scanner from main, gets and tests user input and adds the information to the existing Drink objects in salesToday; it does this as through calls that are incremented through the ArrayList in main
+    // this method name is leftover from the original coffee shop program, it takes in a Scanner from main, 
+    // gets and tests user input and adds the information to the existing Drink objects in salesToday
+    // it does this through calls that are incremented through the ArrayList in main
 
     public Integer numVal(Scanner x) {
 
